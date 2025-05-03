@@ -1,6 +1,8 @@
 #ifndef MARIADBCLIENTPP_TEST_CONFIG_H
 #define MARIADBCLIENTPP_TEST_CONFIG_H
 
+#include <cstdint>
+
 namespace mariadb {
     namespace testing {
         class TestConfig {

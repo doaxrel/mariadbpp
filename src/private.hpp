@@ -13,6 +13,7 @@
 
 #include <mariadb++/exceptions.hpp>
 #include <ctime>
+#include <cstdint>
 
 namespace mariadb {
 #if _WIN32
